@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\centralogicAssignment\\Ketan_Mahalle_Assignment1\\Ketan_Mahalle_Assignment1.csproj",
+      "projectUniqueName": "D:\\Dotnet_Training_Ketan_Mahalle\\Ketan_Mahalle_Assignment1\\Ketan_Mahalle_Assignment1.csproj",
       "projectName": "Ketan_Mahalle_Assignment1",
-      "projectPath": "D:\\centralogicAssignment\\Ketan_Mahalle_Assignment1\\Ketan_Mahalle_Assignment1.csproj",
+      "projectPath": "D:\\Dotnet_Training_Ketan_Mahalle\\Ketan_Mahalle_Assignment1\\Ketan_Mahalle_Assignment1.csproj",
       "packagesPath": "C:\\Users\\ketan\\.nuget\\packages\\",
-      "outputPath": "D:\\centralogicAssignment\\Ketan_Mahalle_Assignment1\\obj\\",
+      "outputPath": "D:\\Dotnet_Training_Ketan_Mahalle\\Ketan_Mahalle_Assignment1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ketan\\AppData\\Roaming\\NuGet\\NuGet.Config",

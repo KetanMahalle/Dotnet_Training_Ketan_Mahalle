@@ -1,17 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class TaskItem
+public class Program
 {
-    public string Title;
-    public string Description ;
-}
+    public class TaskItem
+    {
+        public string Title;
+        public string Description;
+    }
 
-class Program
-{
-    static List<TaskItem> tasks = new List<TaskItem>();
+    private static List<TaskItem> tasks = new List<TaskItem>();
 
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
         while (true)
         {
@@ -26,7 +26,7 @@ class Program
             Console.Write("Enter your choice: ");
             if (!int.TryParse(Console.ReadLine(), out choice))
             {
-                Console.WriteLine("Invalid input. Please enter a valid number between 1 to 5 .");
+                Console.WriteLine("Invalid input. Please enter a valid number between 1 to 5.");
                 continue;
             }
 
@@ -45,7 +45,7 @@ class Program
                     DeleteTask();
                     break;
                 case 5:
-                    Console.WriteLine("Getting Out..");
+                    Console.WriteLine("Exiting...");
                     return;
                 default:
                     Console.WriteLine("Invalid choice. Please enter a valid choice.");
@@ -54,7 +54,7 @@ class Program
         }
     }
 
-    static void CreateTask()
+    private static void CreateTask()
     {
         Console.Write("Enter task title: ");
         string title = Console.ReadLine();
@@ -65,12 +65,12 @@ class Program
         Console.WriteLine("Task has been created.");
     }
 
-    static void ReadTasks()
+    private static void ReadTasks()
     {
         Console.WriteLine("\nTask List:");
         if (tasks.Count == 0)
         {
-            Console.WriteLine("There isn't any task.");
+            Console.WriteLine("There are no tasks.");
         }
         else
         {
@@ -83,7 +83,7 @@ class Program
         }
     }
 
-    static void UpdateTask()
+    private static void UpdateTask()
     {
         Console.Write("Enter the title of the task to update: ");
         string title = Console.ReadLine();
@@ -91,7 +91,7 @@ class Program
         TaskItem task = tasks.Find(t => t.Title.Equals(title));
         if (task != null)
         {
-            Console.Write("Enter new title of task: ");
+            Console.Write("Enter new title of the task: ");
             string newTitle = Console.ReadLine();
             if (!string.IsNullOrWhiteSpace(newTitle))
             {
@@ -113,7 +113,7 @@ class Program
         }
     }
 
-    static void DeleteTask()
+    private static void DeleteTask()
     {
         Console.Write("Enter the title of the task to delete: ");
         string title = Console.ReadLine();
