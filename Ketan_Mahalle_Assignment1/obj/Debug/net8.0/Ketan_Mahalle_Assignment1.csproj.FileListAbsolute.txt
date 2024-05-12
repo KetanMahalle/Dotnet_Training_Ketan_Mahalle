@@ -1,0 +1,14 @@
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\bin\Debug\net8.0\Ketan_Mahalle_Assignment1.exe
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\bin\Debug\net8.0\Ketan_Mahalle_Assignment1.deps.json
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\bin\Debug\net8.0\Ketan_Mahalle_Assignment1.runtimeconfig.json
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\bin\Debug\net8.0\Ketan_Mahalle_Assignment1.dll
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\bin\Debug\net8.0\Ketan_Mahalle_Assignment1.pdb
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\obj\Debug\net8.0\Ketan_Mahalle_Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\obj\Debug\net8.0\Ketan_Mahalle_Assignment1.AssemblyInfoInputs.cache
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\obj\Debug\net8.0\Ketan_Mahalle_Assignment1.AssemblyInfo.cs
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\obj\Debug\net8.0\Ketan_Mahalle_Assignment1.csproj.CoreCompileInputs.cache
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\obj\Debug\net8.0\Ketan_Mahalle_Assignment1.dll
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\obj\Debug\net8.0\refint\Ketan_Mahalle_Assignment1.dll
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\obj\Debug\net8.0\Ketan_Mahalle_Assignment1.pdb
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\obj\Debug\net8.0\Ketan_Mahalle_Assignment1.genruntimeconfig.cache
+D:\centralogicAssignment\Ketan_Mahalle_Assignment1\obj\Debug\net8.0\ref\Ketan_Mahalle_Assignment1.dll
