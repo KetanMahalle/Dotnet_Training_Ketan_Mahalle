@@ -22,13 +22,14 @@ public class Program
             Console.WriteLine("4. Delete a Task");
             Console.WriteLine("5. Exit");
 
-            int choice;
-            Console.Write("Enter your choice: ");
-            if (!int.TryParse(Console.ReadLine(), out choice))
+            Console.Write("Enter a choice between 1 to 5 : ");
+            int choice = Convert.ToInt32(Console.ReadLine());
+           
+            if (choice > 5 && choice < 1)
             {
                 Console.WriteLine("Invalid input. Please enter a valid number between 1 to 5.");
                 continue;
-            }
+            }else{
 
             switch (choice)
             {
@@ -50,6 +51,7 @@ public class Program
                 default:
                     Console.WriteLine("Invalid choice. Please enter a valid choice.");
                     break;
+            }
             }
         }
     }
