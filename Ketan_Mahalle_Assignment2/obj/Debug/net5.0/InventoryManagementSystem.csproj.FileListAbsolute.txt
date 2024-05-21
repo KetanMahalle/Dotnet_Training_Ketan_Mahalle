@@ -24,9 +24,9 @@ D:\Dotnet_Training_Ketan_Mahalle\Ketan_Mahalle_Assignment2\obj\Debug\net5.0\Inve
 D:\Dotnet_Training_Ketan_Mahalle\Ketan_Mahalle_Assignment2\obj\Debug\net5.0\InventoryManagementSystem.AssemblyInfoInputs.cache
 D:\Dotnet_Training_Ketan_Mahalle\Ketan_Mahalle_Assignment2\obj\Debug\net5.0\InventoryManagementSystem.AssemblyInfo.cs
 D:\Dotnet_Training_Ketan_Mahalle\Ketan_Mahalle_Assignment2\obj\Debug\net5.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
-D:\Dotnet_Training_Ketan_Mahalle\Ketan_Mahalle_Assignment2\obj\Debug\net5.0\InventoryManagementSystem.sourcelink.json
 D:\Dotnet_Training_Ketan_Mahalle\Ketan_Mahalle_Assignment2\obj\Debug\net5.0\InventoryManagementSystem.dll
-D:\Dotnet_Training_Ketan_Mahalle\Ketan_Mahalle_Assignment2\obj\Debug\net5.0\refint\InventoryManagementSystem.dll
 D:\Dotnet_Training_Ketan_Mahalle\Ketan_Mahalle_Assignment2\obj\Debug\net5.0\InventoryManagementSystem.pdb
 D:\Dotnet_Training_Ketan_Mahalle\Ketan_Mahalle_Assignment2\obj\Debug\net5.0\InventoryManagementSystem.genruntimeconfig.cache
 D:\Dotnet_Training_Ketan_Mahalle\Ketan_Mahalle_Assignment2\obj\Debug\net5.0\ref\InventoryManagementSystem.dll
+D:\Dotnet_Training_Ketan_Mahalle\Ketan_Mahalle_Assignment2\obj\Debug\net5.0\InventoryManagementSystem.sourcelink.json
+D:\Dotnet_Training_Ketan_Mahalle\Ketan_Mahalle_Assignment2\obj\Debug\net5.0\refint\InventoryManagementSystem.dll
