@@ -43,7 +43,6 @@ namespace LibraryManagementSystem.Controllers
 
 
             member.Id = Guid.NewGuid().ToString();
-            member.UId = member.Id;
             member.DocumentType = "Member";
             member.CreatedBy = "Ketan";
             member.CreatedOn = DateTime.Now;

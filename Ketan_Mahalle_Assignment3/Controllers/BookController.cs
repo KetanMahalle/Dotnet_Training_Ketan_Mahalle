@@ -46,7 +46,6 @@ namespace LibraryManagementSystem.Controllers
 
 
             book1.Id = Guid.NewGuid().ToString();
-            book1.UId = book1.Id;
             book1.DocumentType = "Book";
             book1.CreatedBy = "Ketan";
             book1.CreatedOn = DateTime.Now;

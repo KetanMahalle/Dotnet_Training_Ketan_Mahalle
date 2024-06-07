@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ketan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {}
+    "D:\\Dotnet_Training_Ketan_Mahalle\\Ketan_Mahalle_Assignment3\\LibraryManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ketan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {
+    "D:\\Dotnet_Training_Ketan_Mahalle\\Ketan_Mahalle_Assignment3\\LibraryManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ketan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "projectUniqueName": "D:\\Dotnet_Training_Ketan_Mahalle\\Ketan_Mahalle_Assignment3\\LibraryManagementSystem.csproj",
         "projectName": "LibraryManagementSystem",
-        "projectPath": "C:\\Users\\ketan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "projectPath": "D:\\Dotnet_Training_Ketan_Mahalle\\Ketan_Mahalle_Assignment3\\LibraryManagementSystem.csproj",
         "packagesPath": "C:\\Users\\ketan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ketan\\source\\repos\\LibraryManagementSystem\\obj\\",
+        "outputPath": "D:\\Dotnet_Training_Ketan_Mahalle\\Ketan_Mahalle_Assignment3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ketan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,7 +64,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

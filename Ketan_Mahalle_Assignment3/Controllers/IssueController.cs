@@ -45,7 +45,6 @@ namespace LibraryManagementSystem.Controllers
 
 
             issue.Id = Guid.NewGuid().ToString();
-            issue.UId = issue.Id;
             issue.DocumentType = "Issue";
             issue.CreatedBy = "Ketan";
             issue.CreatedOn = DateTime.Now;
