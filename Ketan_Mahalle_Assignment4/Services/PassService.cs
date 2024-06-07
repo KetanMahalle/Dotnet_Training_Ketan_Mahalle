@@ -95,7 +95,7 @@ namespace Visitor_Security_Clearance_System.Services
         //send pass to email
         private async Task SendPassEmail(string recipientEmail, byte[] pdfBytes)
         {
-            string apiKey = "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"; 
+            string apiKey = ""; 
 
             var client = new SendGridClient(apiKey);
 
