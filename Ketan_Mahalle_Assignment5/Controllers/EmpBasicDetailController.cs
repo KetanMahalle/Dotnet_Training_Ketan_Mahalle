@@ -23,9 +23,9 @@ namespace Employee_Management_System.Controllers
 
         [HttpPost]
 
-        public async Task<EmpBasicDTO> AddEmployee(EmpBasicDTO empBasicDetailsDTO)
+        public async Task<EmpBasicDTO> AddEmployee(EmpBasicDTO empBasicDTO)
         {
-            var response = await _empBasicDetails.AddEmployee(empBasicDetailsDTO);
+            var response = await _empBasicDetails.AddEmployee(empBasicDTO);
             return response;
         }
 
@@ -47,9 +47,9 @@ namespace Employee_Management_System.Controllers
         }
 
         [HttpPost]
-        public async Task<EmpBasicDTO> UpdateEmployee(EmpBasicDTO empBasicDetailsDTO)
+        public async Task<EmpBasicDTO> UpdateEmployee(EmpBasicDTO empBasicDTO)
         {
-            var response = await _empBasicDetails.UpdateEmployee(empBasicDetailsDTO);
+            var response = await _empBasicDetails.UpdateEmployee(empBasicDTO);
             return response;
         }
 
