@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ketan_Mahalle_Assignment1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0618653938753ac62aff40fb98bbf5926edc745c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+511b06edf0baf1395cb0208ff893db146ef6c49c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ketan_Mahalle_Assignment1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ketan_Mahalle_Assignment1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
